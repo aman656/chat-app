@@ -1,0 +1,17 @@
+.whole{
+    width: fit-content;
+    margin: 1rem;
+}
+.whole_card{
+    background-color: #e9e9eb !important;
+}
+.change{
+    width: fit-content;
+    margin: 1rem;
+    margin-left: auto;
+    text-align: left !important;
+  
+}
+.change_card{
+    background-color:rgb(8, 170, 235) !important;
+}
